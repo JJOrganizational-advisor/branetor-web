@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "howItWorks": "Cómo funciona",
+    "whoFor": "Para quién",
+    "pricing": "Precios",
+    "about": "Sobre nosotros",
+    "contact": "Contacto",
+    "login": "Iniciar sesión"
+  },
+  "hero": {
+    "eyebrow": "Planeación estratégica con IA",
+    "title": "Un mapa claro del rumbo de tu organización",
+    "subtitle": "Nueve módulos guiados por conversación, desde la misión hasta la evaluación, con la rigurosidad metodológica de una consultoría — sin el costo.",
+    "ctaPrimary": "Comienza tu plan →",
+    "ctaSecondary": "Ver cómo funciona"
+  },
+  "map": {
+    "label": "La ruta de tu plan",
+    "m1": "01 Misión y visión",
+    "m2": "02 Principios y valores",
+    "m3": "03 FODA / FLOA",
+    "m4": "04 MICMAC",
+    "m5": "… hasta 09 Evaluación"
+  },
+  "how": {
+    "heading": "Nueve módulos, un solo hilo conductor",
+    "range": "01 → 09",
+    "card1Title": "Fundamentos",
+    "card1Body": "Misión, visión, principios y valores — la base sobre la que se construye todo lo demás.",
+    "card2Title": "Análisis",
+    "card2Body": "FODA/FLOA y MICMAC, con diagrama interactivo de cuadrantes para priorizar variables clave.",
+    "card3Title": "Ejecución",
+    "card3Body": "Estrategias, objetivos, plan de acción, KPIs con semáforos, y evaluación anual."
+  },
+  "footer": {
+    "tagline": "Planeación estratégica guiada por IA.",
+    "rights": "Todos los derechos reservados."
+  },
+  "howItWorksPage": {
+    "title": "Cómo funciona",
+    "intro": "Un proceso conversacional de nueve módulos, con continuidad de contexto de principio a fin."
+  },
+  "whoForPage": {
+    "title": "Para quién",
+    "intro": "Diseñado para organizaciones de cualquier tamaño que necesitan un plan estratégico claro, sin el costo de una consultoría tradicional."
+  },
+  "pricingPage": {
+    "title": "Precios",
+    "intro": "Contáctanos para conocer los planes disponibles durante nuestra fase piloto."
+  },
+  "aboutPage": {
+    "title": "Sobre nosotros",
+    "intro": "Nacimos para que la planeación estratégica de calidad sea accesible para cualquier organización."
+  },
+  "contactPage": {
+    "title": "Contacto",
+    "intro": "Cuéntanos sobre tu organización y te contactamos pronto.",
+    "name": "Nombre",
+    "org": "Organización",
+    "email": "Correo electrónico",
+    "message": "Mensaje",
+    "send": "Enviar"
+  }
+}

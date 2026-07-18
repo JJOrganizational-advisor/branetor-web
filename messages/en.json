@@ -1,0 +1,64 @@
+{
+  "nav": {
+    "howItWorks": "How it works",
+    "whoFor": "Who it's for",
+    "pricing": "Pricing",
+    "about": "About",
+    "contact": "Contact",
+    "login": "Log in"
+  },
+  "hero": {
+    "eyebrow": "AI-guided strategic planning",
+    "title": "A clear map for your organization's direction",
+    "subtitle": "Nine conversation-guided modules, from mission to evaluation, with the methodological rigor of a consultancy — without the cost.",
+    "ctaPrimary": "Start your plan →",
+    "ctaSecondary": "See how it works"
+  },
+  "map": {
+    "label": "Your plan's route",
+    "m1": "01 Mission & vision",
+    "m2": "02 Principles & values",
+    "m3": "03 SWOT / FLOA",
+    "m4": "04 MICMAC",
+    "m5": "… through 09 Evaluation"
+  },
+  "how": {
+    "heading": "Nine modules, one continuous thread",
+    "range": "01 → 09",
+    "card1Title": "Foundations",
+    "card1Body": "Mission, vision, principles and values — the base everything else is built on.",
+    "card2Title": "Analysis",
+    "card2Body": "SWOT/FLOA and MICMAC, with an interactive quadrant diagram to prioritize key variables.",
+    "card3Title": "Execution",
+    "card3Body": "Strategies, objectives, action plan, KPIs with traffic-light indicators, and annual evaluation."
+  },
+  "footer": {
+    "tagline": "AI-guided strategic planning.",
+    "rights": "All rights reserved."
+  },
+  "howItWorksPage": {
+    "title": "How it works",
+    "intro": "A nine-module conversational process, with continuity of context from start to finish."
+  },
+  "whoForPage": {
+    "title": "Who it's for",
+    "intro": "Built for organizations of any size that need a clear strategic plan, without the cost of traditional consulting."
+  },
+  "pricingPage": {
+    "title": "Pricing",
+    "intro": "Contact us to learn about plans available during our pilot phase."
+  },
+  "aboutPage": {
+    "title": "About us",
+    "intro": "We started this to make quality strategic planning accessible to any organization."
+  },
+  "contactPage": {
+    "title": "Contact",
+    "intro": "Tell us about your organization and we'll get back to you soon.",
+    "name": "Name",
+    "org": "Organization",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send"
+  }
+}
