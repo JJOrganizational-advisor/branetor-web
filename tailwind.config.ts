@@ -16,9 +16,9 @@ const config: Config = {
         teal: "#3C7A82",
       },
       fontFamily: {
-        display: ["var(--font-fraunces)", "serif"],
-        sans: ["var(--font-plex-sans)", "sans-serif"],
-        mono: ["var(--font-plex-mono)", "monospace"],
+        display: ["Fraunces", "serif"],
+        sans: ["IBM Plex Sans", "sans-serif"],
+        mono: ["IBM Plex Mono", "monospace"],
       },
     },
   },

@@ -1,8 +1,15 @@
 import { useTranslations } from "next-intl";
+import { setRequestLocale } from "next-intl/server";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 
-export default function ComoFuncionaPage() {
+export default function ComoFuncionaPage({
+  params: { locale },
+}: {
+  params: { locale: string };
+}) {
+  setRequestLocale(locale);
+
   const t = useTranslations("howItWorksPage");
 
   return (

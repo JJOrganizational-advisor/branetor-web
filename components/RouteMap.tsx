@@ -17,7 +17,7 @@ export default function RouteMap() {
           strokeDasharray="3,4"
           opacity="0.7"
         />
-        <g fontFamily="var(--font-plex-mono)" fontSize="9">
+        <g fontFamily="IBM Plex Mono" fontSize="9">
           <circle cx="30" cy="20" r="4.5" fill="#E3A438" />
           <text x="42" y="24" fill="#FBFAF6" opacity="0.9">
             {t("m1")}

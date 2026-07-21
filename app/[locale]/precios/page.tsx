@@ -1,8 +1,15 @@
 import { useTranslations } from "next-intl";
+import { setRequestLocale } from "next-intl/server";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
 
-export default function PreciosPage() {
+export default function PreciosPage({
+  params: { locale },
+}: {
+  params: { locale: string };
+}) {
+  setRequestLocale(locale);
+
   const t = useTranslations("pricingPage");
 
   return (
