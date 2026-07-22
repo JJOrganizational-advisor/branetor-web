@@ -9,7 +9,8 @@
   },
   "hero": {
     "eyebrow": "AI-guided strategic planning",
-    "title": "Your organization's strategic plan, guided step by step",
+    "title": "Your organization's strategic plan",
+    "titleSub": "guided step by step",
     "subtitle": "Nine conversation-guided modules, from mission to evaluation, with the methodological rigor of a consultancy, at a substantially lower cost.",
     "ctaPrimary": "Start your plan →",
     "ctaSecondary": "See how it works"

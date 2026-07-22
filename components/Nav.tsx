@@ -10,7 +10,7 @@ export default function Nav() {
 
   return (
     <nav className="flex items-center justify-between px-8 py-7 max-w-[1080px] mx-auto">
-      <Link href={`/${locale}`} className="font-display font-semibold text-xl tracking-tight">
+      <Link href={`/${locale}`} className="font-display font-semibold text-[28px] tracking-tight">
         Brane<span className="text-forest">tor</span>
       </Link>
       <div className="flex items-center gap-7 text-sm">

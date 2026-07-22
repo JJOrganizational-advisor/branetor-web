@@ -9,7 +9,8 @@
   },
   "hero": {
     "eyebrow": "Planeación estratégica con IA",
-    "title": "El plan estratégico de tu organización, guiado paso a paso",
+    "title": "El plan estratégico de tu organización",
+    "titleSub": "guiado paso a paso",
     "subtitle": "Nueve módulos guiados por conversación, desde la misión hasta la evaluación, con la rigurosidad metodológica de una consultoría, reduciendo sustancialmente el costo.",
     "ctaPrimary": "Comienza tu plan →",
     "ctaSecondary": "Ver cómo funciona"
