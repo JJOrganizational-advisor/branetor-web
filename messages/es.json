@@ -9,18 +9,21 @@
   },
   "hero": {
     "eyebrow": "Planeación estratégica con IA",
-    "title": "Un mapa claro del rumbo de tu organización",
-    "subtitle": "Nueve módulos guiados por conversación, desde la misión hasta la evaluación, con la rigurosidad metodológica de una consultoría — sin el costo.",
+    "title": "El plan estratégico de tu organización, guiado paso a paso",
+    "subtitle": "Nueve módulos guiados por conversación, desde la misión hasta la evaluación, con la rigurosidad metodológica de una consultoría, reduciendo sustancialmente el costo.",
     "ctaPrimary": "Comienza tu plan →",
     "ctaSecondary": "Ver cómo funciona"
   },
-  "map": {
-    "label": "La ruta de tu plan",
+  "sequence": {
     "m1": "01 Misión y visión",
     "m2": "02 Principios y valores",
-    "m3": "03 FODA / FLOA",
+    "m3": "03 FODA/FLOA",
     "m4": "04 MICMAC",
-    "m5": "… hasta 09 Evaluación"
+    "m5": "05 Estrategias",
+    "m6": "06 Objetivos y metas",
+    "m7": "07 Plan de acción",
+    "m8": "08 KPIs",
+    "m9": "09 Evaluación"
   },
   "how": {
     "heading": "Nueve módulos, un solo hilo conductor",

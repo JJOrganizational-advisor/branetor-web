@@ -9,18 +9,21 @@
   },
   "hero": {
     "eyebrow": "AI-guided strategic planning",
-    "title": "A clear map for your organization's direction",
-    "subtitle": "Nine conversation-guided modules, from mission to evaluation, with the methodological rigor of a consultancy — without the cost.",
+    "title": "Your organization's strategic plan, guided step by step",
+    "subtitle": "Nine conversation-guided modules, from mission to evaluation, with the methodological rigor of a consultancy, at a substantially lower cost.",
     "ctaPrimary": "Start your plan →",
     "ctaSecondary": "See how it works"
   },
-  "map": {
-    "label": "Your plan's route",
+  "sequence": {
     "m1": "01 Mission & vision",
     "m2": "02 Principles & values",
-    "m3": "03 SWOT / FLOA",
+    "m3": "03 SWOT/FLOA",
     "m4": "04 MICMAC",
-    "m5": "… through 09 Evaluation"
+    "m5": "05 Strategies",
+    "m6": "06 Objectives & targets",
+    "m7": "07 Action plan",
+    "m8": "08 KPIs",
+    "m9": "09 Evaluation"
   },
   "how": {
     "heading": "Nine modules, one continuous thread",
