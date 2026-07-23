@@ -42,7 +42,27 @@
   },
   "howItWorksPage": {
     "title": "How it works",
-    "intro": "A nine-module conversational process, with continuity of context from start to finish."
+    "intro": "A nine-module conversational process, with continuity of context from start to finish: what you define in one module automatically feeds the next.",
+    "m1Title": "Mission and vision",
+    "m1Desc": "Through guided conversation, we define your organization's fundamental purpose and the aspirational destination it's working toward.",
+    "m2Title": "Principles and values",
+    "m2Desc": "We establish the ethical principles and values that guide your team's daily decisions, aligned with the mission already defined.",
+    "m3Title": "SWOT / FLOA",
+    "m3Desc": "Analysis of strengths, weaknesses, opportunities and threats, with the extended FLOA methodology for greater depth.",
+    "m4Title": "MICMAC",
+    "m4Desc": "Interactive influence/dependence diagram between strategic variables, with automatic quadrant classification to prioritize what truly matters.",
+    "m5Title": "Strategies",
+    "m5Desc": "Formulation of 3 to 7 strategies, calibrated to your organization's size and reality, built directly on the previous analysis.",
+    "m6Title": "Objectives and targets",
+    "m6Desc": "Translation of each strategy into measurable objectives and concrete targets, with defined timelines.",
+    "m7Title": "Action plan",
+    "m7Desc": "Operational detail: activities, owners and resources, organized in a spreadsheet exportable to Excel or PDF.",
+    "m8Title": "KPIs",
+    "m8Desc": "Key performance indicators with a traffic-light panel, to monitor progress at a glance.",
+    "m9Title": "Evaluation",
+    "m9Desc": "Annual progress review, with the ability to update the MICMAC and adjust course without losing prior work.",
+    "contextNote": "Unlike a blank template, each module remembers what you defined before — the system keeps your organization's thread intact from start to finish.",
+    "cta": "Start your plan →"
   },
   "whoForPage": {
     "title": "Who it's for",

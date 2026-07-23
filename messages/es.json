@@ -42,7 +42,27 @@
   },
   "howItWorksPage": {
     "title": "Cómo funciona",
-    "intro": "Un proceso conversacional de nueve módulos, con continuidad de contexto de principio a fin."
+    "intro": "Un proceso conversacional de nueve módulos, con continuidad de contexto de principio a fin: lo que defines en un módulo alimenta automáticamente los siguientes.",
+    "m1Title": "Misión y visión",
+    "m1Desc": "Definimos, mediante conversación guiada, el propósito fundamental de tu organización y el destino aspiracional al que quiere llegar.",
+    "m2Title": "Principios y valores",
+    "m2Desc": "Establecemos los principios éticos y valores que guían las decisiones diarias de tu equipo, alineados con la misión ya definida.",
+    "m3Title": "FODA / FLOA",
+    "m3Desc": "Análisis de fortalezas, oportunidades, debilidades y amenazas, con la metodología ampliada FLOA para mayor profundidad.",
+    "m4Title": "MICMAC",
+    "m4Desc": "Diagrama interactivo de influencia y dependencia entre variables estratégicas, con clasificación automática en cuadrantes para priorizar lo que realmente importa.",
+    "m5Title": "Estrategias",
+    "m5Desc": "Formulación de entre 3 y 7 estrategias, calibradas según el tamaño y realidad de tu organización, construidas directamente sobre el análisis previo.",
+    "m6Title": "Objetivos y metas",
+    "m6Desc": "Traducción de cada estrategia en objetivos medibles y metas concretas, con plazos definidos.",
+    "m7Title": "Plan de acción",
+    "m7Desc": "Detalle operativo: actividades, responsables y recursos, organizados en una hoja de cálculo exportable a Excel o PDF.",
+    "m8Title": "KPIs",
+    "m8Desc": "Indicadores clave de desempeño con panel de semáforos, para monitorear el avance de un vistazo.",
+    "m9Title": "Evaluación",
+    "m9Desc": "Revisión anual del progreso, con posibilidad de actualizar el MICMAC y ajustar el rumbo sin perder el trabajo anterior.",
+    "contextNote": "A diferencia de una plantilla en blanco, cada módulo recuerda lo que definiste antes — el sistema mantiene el hilo conductor de tu organización de principio a fin.",
+    "cta": "Comienza tu plan →"
   },
   "whoForPage": {
     "title": "Para quién",
