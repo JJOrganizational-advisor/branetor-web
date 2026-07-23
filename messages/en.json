@@ -66,7 +66,19 @@
   },
   "whoForPage": {
     "title": "Who it's for",
-    "intro": "Built for organizations of any size that need a clear strategic plan, without the cost of traditional consulting."
+    "intro": "Built for organizations of any size that need a clear strategic plan, without the cost of traditional consulting.",
+    "segmentsHeading": "For organizations at different stages",
+    "seg1Title": "Small teams",
+    "seg1Desc": "NGOs and organizations with teams of 1 to 5 people, without a dedicated strategic planning function.",
+    "seg2Title": "Mid-sized organizations",
+    "seg2Desc": "Established teams that need to align multiple programs or departments under one strategy.",
+    "seg3Title": "Networks and federations",
+    "seg3Desc": "Large organizations or multi-chapter networks that need strategic coherence across different units.",
+    "futureNote": "Currently in pilot phase with NGOs in Vancouver, BC, with plans to expand into Latin America, Spain, and organizations across any sector.",
+    "caseHeading": "An illustrative example",
+    "caseBody": "Semillas Urbanas, an urban community-farming organization, used Branetor to build its first complete strategic plan in a couple of weeks — from defining its mission to setting measurable KPIs, without hiring outside consultants.",
+    "caseNote": "Semillas Urbanas is an illustrative test case, not a real organization.",
+    "cta": "Start your plan →"
   },
   "pricingPage": {
     "title": "Pricing",
