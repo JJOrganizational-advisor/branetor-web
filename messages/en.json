@@ -1,11 +1,16 @@
 {
   "nav": {
+    "home": "Home",
     "howItWorks": "How it works",
     "whoFor": "Who it's for",
     "pricing": "Pricing",
     "about": "About",
     "contact": "Contact",
     "login": "Log in"
+  },
+  "common": {
+    "cta": "Start your plan →",
+    "credit": "built by Julio Jara"
   },
   "hero": {
     "eyebrow": "AI-guided strategic planning",
@@ -82,7 +87,7 @@
   },
   "aboutPage": {
     "title": "About us",
-    "intro": "We started this so that quality strategic planning would be accessible to any organization, regardless of size or budget.",
+    "intro": "We started this so that quality strategic planning would be accessible to any organization, regardless of size.",
     "body": "Many organizations need a clear strategic plan, but the cost of traditional consulting is out of reach. Branetor combines artificial intelligence with a rigorous methodology — SWOT, MICMAC, objective-setting and KPIs — to guide that process conversationally, in a fraction of the usual time and cost."
   },
   "contactPage": {

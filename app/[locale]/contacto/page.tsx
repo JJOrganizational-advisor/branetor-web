@@ -3,6 +3,7 @@
 import { useTranslations } from "next-intl";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+import CtaButton from "@/components/CtaButton";
 
 export default function ContactoPage() {
   const t = useTranslations("contactPage");
@@ -40,6 +41,9 @@ export default function ContactoPage() {
           </button>
         </form>
         {/* TODO: conectar envío real (API route + email o Supabase) — Paso 4b */}
+        <div className="border-t border-ink/10 mt-10 pt-8">
+          <CtaButton />
+        </div>
       </section>
       <Footer />
     </main>

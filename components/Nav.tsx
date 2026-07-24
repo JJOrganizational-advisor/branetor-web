@@ -5,15 +5,27 @@ import Link from "next/link";
 
 export default function Nav() {
   const t = useTranslations("nav");
+  const tCommon = useTranslations("common");
   const locale = useLocale();
   const otherLocale = locale === "es" ? "en" : "es";
 
   return (
     <nav className="flex items-center justify-between px-8 py-7 max-w-[1080px] mx-auto">
-      <Link href={`/${locale}`} className="font-display font-semibold text-[28px] tracking-tight">
-        Brane<span className="text-forest">tor</span>
-      </Link>
+      <div className="flex items-baseline gap-3">
+        <Link
+          href={`/${locale}`}
+          className="font-display font-semibold text-[28px] tracking-tight"
+        >
+          Brane<span className="text-forest">tor</span>
+        </Link>
+        <span className="font-mono text-[11px] text-ink/40 hidden sm:inline">
+          {tCommon("credit")}
+        </span>
+      </div>
       <div className="flex items-center gap-7 text-sm">
+        <Link href={`/${locale}`} className="opacity-75 hover:opacity-100">
+          {t("home")}
+        </Link>
         <Link href={`/${locale}/como-funciona`} className="opacity-75 hover:opacity-100">
           {t("howItWorks")}
         </Link>
