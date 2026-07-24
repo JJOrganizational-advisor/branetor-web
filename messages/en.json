@@ -97,6 +97,9 @@
     "org": "Organization",
     "email": "Email",
     "message": "Message",
-    "send": "Send"
+    "send": "Send",
+    "sending": "Sending...",
+    "successMessage": "Thank you! We received your message and will be in touch soon.",
+    "errorMessage": "There was a problem sending your message. Please try again."
   }
 }

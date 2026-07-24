@@ -97,6 +97,9 @@
     "org": "Organización",
     "email": "Correo electrónico",
     "message": "Mensaje",
-    "send": "Enviar"
+    "send": "Enviar",
+    "sending": "Enviando...",
+    "successMessage": "¡Gracias! Recibimos tu mensaje y te contactaremos pronto.",
+    "errorMessage": "Hubo un problema al enviar tu mensaje. Por favor intenta de nuevo."
   }
 }
