@@ -23,6 +23,12 @@ export default function Nav() {
         <Link href={`/${locale}/precios`} className="opacity-75 hover:opacity-100">
           {t("pricing")}
         </Link>
+        <Link href={`/${locale}/sobre-nosotros`} className="opacity-75 hover:opacity-100">
+          {t("about")}
+        </Link>
+        <Link href={`/${locale}/contacto`} className="opacity-75 hover:opacity-100">
+          {t("contact")}
+        </Link>
         <Link
           href={`/${otherLocale}`}
           className="font-mono text-xs tracking-wide opacity-60 hover:opacity-100"

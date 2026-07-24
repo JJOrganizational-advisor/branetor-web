@@ -16,9 +16,9 @@ export default function SobreNosotrosPage({
     <main>
       <Nav />
       <section className="max-w-[1080px] mx-auto px-8 py-14">
-        <h1 className="font-display font-medium text-3xl mb-4">{t("title")}</h1>
-        <p className="text-ink/70 max-w-[560px]">{t("intro")}</p>
-        {/* TODO: alianzas Vantage Point / TechSoup — Paso 4b */}
+        <h1 className="font-display font-medium text-3xl mb-5">{t("title")}</h1>
+        <p className="text-ink/70 max-w-[560px] mb-4">{t("intro")}</p>
+        <p className="text-ink/70 max-w-[560px]">{t("body")}</p>
       </section>
       <Footer />
     </main>

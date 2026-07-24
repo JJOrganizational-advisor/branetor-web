@@ -82,7 +82,8 @@
   },
   "aboutPage": {
     "title": "About us",
-    "intro": "We started this to make quality strategic planning accessible to any organization."
+    "intro": "We started this so that quality strategic planning would be accessible to any organization, regardless of size or budget.",
+    "body": "Many organizations need a clear strategic plan, but the cost of traditional consulting is out of reach. Branetor combines artificial intelligence with a rigorous methodology — SWOT, MICMAC, objective-setting and KPIs — to guide that process conversationally, in a fraction of the usual time and cost."
   },
   "contactPage": {
     "title": "Contact",

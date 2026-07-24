@@ -82,7 +82,8 @@
   },
   "aboutPage": {
     "title": "Sobre nosotros",
-    "intro": "Nacimos para que la planeación estratégica de calidad sea accesible para cualquier organización."
+    "intro": "Nacimos para que la planeación estratégica de calidad sea accesible para cualquier organización, sin importar su tamaño o presupuesto.",
+    "body": "Muchas organizaciones necesitan un plan estratégico claro, pero el costo de una consultoría tradicional está fuera de su alcance. Branetor combina inteligencia artificial con una metodología rigurosa — FODA, MICMAC, definición de objetivos y KPIs — para guiar ese proceso de forma conversacional, en una fracción del tiempo y costo habitual."
   },
   "contactPage": {
     "title": "Contacto",
