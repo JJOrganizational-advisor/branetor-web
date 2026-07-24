@@ -11,14 +11,14 @@ export default function Nav() {
 
   return (
     <nav className="flex items-center justify-between px-8 py-7 max-w-[1080px] mx-auto">
-      <div className="flex items-baseline gap-3">
+      <div className="flex flex-col">
         <Link
           href={`/${locale}`}
-          className="font-display font-semibold text-[28px] tracking-tight"
+          className="font-display font-semibold text-[28px] tracking-tight leading-none"
         >
           Brane<span className="text-forest">tor</span>
         </Link>
-        <span className="font-mono text-[11px] text-ink/40 hidden sm:inline">
+        <span className="font-mono text-[11px] text-ink/40 mt-1">
           {tCommon("credit")}
         </span>
       </div>
