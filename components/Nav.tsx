@@ -48,7 +48,7 @@ export default function Nav() {
           {otherLocale === "en" ? "EN" : "ES"}
         </Link>
         <a
-          href={`https://app.branetor.com/${locale}/login`}
+          href={`https://app.branetor.com${locale === "en" ? "/en" : ""}`}
           className="border border-ink rounded px-4 py-2 text-sm"
         >
           {t("login")}
