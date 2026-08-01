@@ -34,7 +34,7 @@ export default function PreciosPage({
               <li>✓ {t("tier1Feat3")}</li>
             </ul>
             <Link
-              href={`/${locale}/contacto`}
+              href={`https://app.branetor.com/${locale}`}
               className="border border-ink/20 rounded px-5 py-3 text-sm font-medium text-center"
             >
               {t("tier1Cta")}
@@ -55,7 +55,7 @@ export default function PreciosPage({
               <li>✓ {t("tier2Feat5")}</li>
             </ul>
             <Link
-              href={`/${locale}/contacto`}
+              href={`https://app.branetor.com/${locale}`}
               className="border border-ink/20 rounded px-5 py-3 text-sm font-medium text-center"
             >
               {t("tier2Cta")}
@@ -77,7 +77,7 @@ export default function PreciosPage({
               <li className="text-forest font-medium">{t("tier3Feat3")}</li>
             </ul>
             <Link
-              href={`/${locale}/contacto`}
+              href={`https://app.branetor.com/${locale}`}
               className="bg-forest text-paper rounded px-5 py-3 text-sm font-medium text-center"
             >
               {t("tier3Cta")}
@@ -85,7 +85,12 @@ export default function PreciosPage({
           </div>
         </div>
 
-        <p className="text-sm text-ink/50 mt-8">{t("footnote")}</p>
+        <p className="text-sm text-ink/50 mt-8">
+          {t("footnote")}{" "}
+          <Link href={`/${locale}/contacto`} className="text-forest hover:underline">
+            {t("footnoteLink")}
+          </Link>
+        </p>
       </section>
 
       <Footer />

@@ -108,7 +108,8 @@
     "tier3Feat2": "1 active strategic plan",
     "tier3Feat3": "Equivalent to $74.90/month",
     "tier3Cta": "Choose annual plan",
-    "footnote": "Need plans for multiple chapters or organizations? Get in touch."
+    "footnote": "Need plans for multiple chapters or organizations?",
+    "footnoteLink": "Contact us"
   },
   "aboutPage": {
     "title": "About us",
