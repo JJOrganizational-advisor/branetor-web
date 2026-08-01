@@ -67,6 +67,8 @@
     "m9Title": "Evaluación",
     "m9Desc": "Revisión anual del progreso, con posibilidad de actualizar el MICMAC y ajustar el rumbo sin perder el trabajo anterior.",
     "contextNote": "A diferencia de una plantilla en blanco, cada módulo recuerda lo que definiste antes — el sistema mantiene el hilo conductor de tu organización de principio a fin.",
+    "samplePlanText": "¿Quieres ver un plan estratégico completo, de principio a fin?",
+    "samplePlanLink": "Ver el plan completo",
     "cta": "Comienza tu plan →"
   },
   "whoForPage": {

@@ -64,8 +64,19 @@ export default function ComoFuncionaPage({
       </section>
 
       <section className="max-w-[720px] mx-auto px-8 pb-16">
-        <div className="border border-ink/10 rounded-md p-6 mb-8">
+        <div className="border border-ink/10 rounded-md p-6 mb-6">
           <p className="text-sm text-ink/70 leading-relaxed">{t("contextNote")}</p>
+        </div>
+        <div className="border border-forest/30 bg-forest/5 rounded-md p-6 mb-8 flex items-center justify-between flex-wrap gap-4">
+          <p className="text-sm text-ink/70">{t("samplePlanText")}</p>
+          <a
+            href="/plan-estrategico-puentes-digitales.pdf"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-forest font-medium text-sm whitespace-nowrap hover:underline"
+          >
+            {t("samplePlanLink")} →
+          </a>
         </div>
         <button className="bg-forest text-paper rounded px-6 py-3.5 text-[15px] font-medium">
           {t("cta")}

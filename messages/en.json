@@ -67,6 +67,8 @@
     "m9Title": "Evaluation",
     "m9Desc": "Annual progress review, with the ability to update the MICMAC and adjust course without losing prior work.",
     "contextNote": "Unlike a blank template, each module remembers what you defined before — the system keeps your organization's thread intact from start to finish.",
+    "samplePlanText": "Want to see a complete strategic plan, start to finish?",
+    "samplePlanLink": "View the full plan",
     "cta": "Start your plan →"
   },
   "whoForPage": {
