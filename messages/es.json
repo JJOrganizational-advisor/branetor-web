@@ -43,7 +43,9 @@
   },
   "footer": {
     "tagline": "Planeación estratégica guiada por IA.",
-    "rights": "Todos los derechos reservados."
+    "rights": "Todos los derechos reservados.",
+    "privacyLink": "Privacidad",
+    "termsLink": "Términos"
   },
   "howItWorksPage": {
     "title": "Cómo funciona",

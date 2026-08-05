@@ -43,7 +43,9 @@
   },
   "footer": {
     "tagline": "AI-guided strategic planning.",
-    "rights": "All rights reserved."
+    "rights": "All rights reserved.",
+    "privacyLink": "Privacy",
+    "termsLink": "Terms"
   },
   "howItWorksPage": {
     "title": "How it works",
