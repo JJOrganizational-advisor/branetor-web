@@ -1,8 +1,10 @@
-import { useTranslations } from "next-intl";
+import { useLocale, useTranslations } from "next-intl";
+import Link from "next/link";
 import ModuleSequence from "./ModuleSequence";
 
 export default function Hero() {
   const t = useTranslations("hero");
+  const locale = useLocale();
 
   return (
     <header className="max-w-[1080px] mx-auto px-8 pt-10 pb-8">
@@ -25,14 +27,20 @@ export default function Hero() {
           <ModuleSequence />
         </div>
         <div className="flex justify-center gap-3.5">
-          <button className="bg-forest text-paper rounded px-6 py-3.5 text-[15px] font-medium">
+          
+            href={`https://app.branetor.com${locale === "en" ? "/en" : ""}`}
+            className="bg-forest text-paper rounded px-6 py-3.5 text-[15px] font-medium"
+          >
             {t("ctaPrimary")}
-          </button>
-          <button className="border border-ink/15 rounded px-6 py-3.5 text-[15px]">
+          </a>
+          <Link
+            href={`/${locale}/como-funciona`}
+            className="border border-ink/15 rounded px-6 py-3.5 text-[15px]"
+          >
             {t("ctaSecondary")}
-          </button>
+          </Link>
         </div>
       </div>
     </header>
   );
-}
+}"Fix: conectar botones del Hero a app.branetor.com y Cómo Funciona"
