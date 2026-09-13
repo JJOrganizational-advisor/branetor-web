@@ -27,8 +27,8 @@ export default function Hero() {
           <ModuleSequence />
         </div>
         <div className="flex justify-center gap-3.5">
-          
-            href={`https://app.branetor.com${locale === "en" ? "/en" : ""}`}
+<a 
+  href={`https://app.branetor.com${locale === "en" ? "/en" : ""}`}
             className="bg-forest text-paper rounded px-6 py-3.5 text-[15px] font-medium"
           >
             {t("ctaPrimary")}
