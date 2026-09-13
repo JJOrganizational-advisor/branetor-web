@@ -2,6 +2,7 @@ import { useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+import CtaButton from "@/components/CtaButton";
 
 export default function ComoFuncionaPage({
   params: { locale },
@@ -78,9 +79,7 @@ export default function ComoFuncionaPage({
             {t("samplePlanLink")} →
           </a>
         </div>
-        <button className="bg-forest text-paper rounded px-6 py-3.5 text-[15px] font-medium">
-          {t("cta")}
-        </button>
+        <CtaButton />
       </section>
       <Footer />
     </main>

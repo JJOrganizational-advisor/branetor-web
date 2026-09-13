@@ -2,6 +2,7 @@ import { useTranslations } from "next-intl";
 import { setRequestLocale } from "next-intl/server";
 import Nav from "@/components/Nav";
 import Footer from "@/components/Footer";
+import CtaButton from "@/components/CtaButton";
 
 export default function ParaQuienPage({
   params: { locale },
@@ -43,9 +44,7 @@ export default function ParaQuienPage({
       </section>
 
       <section className="max-w-[1080px] mx-auto px-8 pb-16">
-        <button className="bg-forest text-paper rounded px-6 py-3.5 text-[15px] font-medium">
-          {t("cta")}
-        </button>
+        <CtaButton />
       </section>
 
       <Footer />

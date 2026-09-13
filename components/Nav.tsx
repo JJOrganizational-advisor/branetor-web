@@ -12,9 +12,7 @@ export default function Nav() {
   const otherLocale = locale === "es" ? "en" : "es";
   const pathname = usePathname();
   const pathWithoutLocale = pathname.replace(/^\/(es|en)/, "") || "";
-  const otherLocaleHref = otherLocale === "es"
-    ? (pathWithoutLocale || "/")
-    : `/en${pathWithoutLocale}`;
+  const otherLocaleHref = `/${otherLocale}${pathWithoutLocale}`;
   const [menuOpen, setMenuOpen] = useState(false);
 
   useEffect(() => {
