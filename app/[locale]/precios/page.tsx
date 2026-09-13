@@ -10,7 +10,6 @@ export default function PreciosPage({
   params: { locale: string };
 }) {
   setRequestLocale(locale);
-
   const t = useTranslations("pricingPage");
 
   return (
@@ -35,6 +34,8 @@ export default function PreciosPage({
             </ul>
             <Link
               href={`https://app.branetor.com${locale === "en" ? "/en" : ""}`}
+              target="_blank"
+              rel="noopener noreferrer"
               className="border border-ink/20 rounded px-5 py-3 text-sm font-medium text-center"
             >
               {t("tier1Cta")}
@@ -56,6 +57,8 @@ export default function PreciosPage({
             </ul>
             <Link
               href={`https://app.branetor.com${locale === "en" ? "/en" : ""}`}
+              target="_blank"
+              rel="noopener noreferrer"
               className="border border-ink/20 rounded px-5 py-3 text-sm font-medium text-center"
             >
               {t("tier2Cta")}
@@ -78,6 +81,8 @@ export default function PreciosPage({
             </ul>
             <Link
               href={`https://app.branetor.com${locale === "en" ? "/en" : ""}`}
+              target="_blank"
+              rel="noopener noreferrer"
               className="bg-forest text-paper rounded px-5 py-3 text-sm font-medium text-center"
             >
               {t("tier3Cta")}

@@ -29,6 +29,8 @@ export default function Hero() {
         <div className="flex justify-center gap-3.5">
         <a  
             href={`https://app.branetor.com${locale === "en" ? "/en" : ""}`}
+            target="_blank"
+            rel="noopener noreferrer"
             className="bg-forest text-paper rounded px-6 py-3.5 text-[15px] font-medium"
           >
             {t("ctaPrimary")}
