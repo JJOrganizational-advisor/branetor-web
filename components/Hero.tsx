@@ -27,7 +27,7 @@ export default function Hero() {
           <ModuleSequence />
         </div>
         <div className="flex justify-center gap-3.5">
-        <a  
+          <a
             href={`https://app.branetor.com${locale === "en" ? "/en" : ""}`}
             target="_blank"
             rel="noopener noreferrer"
