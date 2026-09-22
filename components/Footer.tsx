@@ -21,6 +21,9 @@ export default function Footer() {
           <Link href={`/${locale}/terminos`} className="hover:text-forest hover:underline">
             {t("termsLink")}
           </Link>
+          <Link href={`/${locale}/cookies`} className="hover:text-forest hover:underline">
+            {t("cookiesLink")}
+          </Link>
         </div>
         <div>© {new Date().getFullYear()} Branetor. {t("rights")}</div>
       </div>
